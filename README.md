@@ -39,3 +39,5 @@ Hello! I'm Mike Borsare, a Product Designer/Front-end Developer living in Boston
 - University of Alabama • Studied Computer Science — 2000
 
 This repo was inspired by: [@dictions](//github.com/dictions/resume/blob/master/README.md)
+
+☝️
