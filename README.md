@@ -8,7 +8,7 @@
 - Website: [mikeborsare.com](http://www.mikeborsare.com)
 - Everywhere else: [@mborsare](//www.google.com/search?q=%22mborsare%22%20mike%20borsare)
 
-#### Summary
+#### About
 
 Hello! I'm Mike Borsare, a Product Designer/Front-end Developer living in Boston. I specialize in creating strong, memorable products. Right now I'm most interested in mentoring younger designers, creating/improving design systems, and striking a balance between excellent visual design and intuitive user experience.
 
