@@ -36,6 +36,4 @@ I've been working at thoughtbot for going on 4 years. I've had the opportunity t
 - University of Tennessee • BA Urban Studies, Minor: History — 2005
 - University of Alabama • Studied Computer Science — 2000
 
-<small>
-  This repo was inspired by: [@dictions](https://github.com/dictions/resume/blob/master/README.md)
-</small>
+This repo was inspired by: [@dictions](//github.com/dictions/resume/blob/master/README.md)
