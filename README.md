@@ -10,7 +10,11 @@
 
 #### About
 
-Hello! I'm Mike Borsare, a Product Designer/Front-end Developer living in Boston. I specialize in creating strong, memorable products. Right now I'm most interested in mentoring younger designers, creating/improving design systems, and striking a balance between excellent visual design and intuitive user experience.
+Hello! I'm Mike Borsare, a Product Designer/Front-end Developer living in
+Boston. I specialize in creating strong, memorable products. Right now I'm most
+interested in mentoring younger designers, creating/improving design systems,
+and striking a balance between excellent visual design and intuitive user
+experience.
 
 #### Skillset
 
@@ -26,11 +30,25 @@ Hello! I'm Mike Borsare, a Product Designer/Front-end Developer living in Boston
 
 #### Experience
 
-- **thoughtbot — Designer & Developer** • Present–2014 — I've had the opportunity to work with clients large and small creating and improving upon digital products. In the process I've designed UIs, facilitated product design sprints, implemented my own designs using various front-end tools, conducted sprint planning, and worked directly with clients  to achieve business goals.
+- **Robin — Designer & Developer** • Present–2018 
 
-- **Argus — Graphic Designer** • 2014–2011 — Designed branding systems ranging from events to campaigns for a variety of clients. Created production files for print and web projects.
-- **VHB — Urban Planner, Graphic & GIS Specialist** • 2011–2006 — Created graphics and maps integral to Master Plan documents and permitting approvals. Participated and led charette exercises towards the end of creating city plans.
-- **United Parcel Service — Package Handler** • 2005–2001 — Sorted and loaded packages in a high pressure, fast-paced, environment. Served as an employee representative on the: safety, damage, and employee retention committees.
+- **thoughtbot — Designer & Developer** • 2018–2014 — I've had the opportunity
+  to work with clients large and small creating and improving upon digital
+  products. In the process I've designed UIs, facilitated product design sprints,
+  implemented my own designs using various front-end tools, conducted sprint
+  planning, and worked directly with clients  to achieve business goals.
+
+- **Argus — Graphic Designer** • 2014–2011 — Designed branding systems ranging
+  from events to campaigns for a variety of clients. Created production files for
+  print and web projects.
+
+- **VHB — Urban Planner, Graphic & GIS Specialist** • 2011–2006 — Created
+  graphics and maps integral to Master Plan documents and permitting approvals.
+  Participated and led charette exercises towards the end of creating city plans.
+
+- **United Parcel Service — Package Handler** • 2005–2001 — Sorted and loaded
+  packages in a high pressure, fast-paced, environment. Served as an employee
+  representative on the: safety, damage, and employee retention committees.
 
 #### Education
 
