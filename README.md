@@ -32,11 +32,11 @@ experience.
 
 - **Robin — Designer & Developer** • Present–2018 
 
-- **thoughtbot — Designer & Developer** • 2018–2014 — I've had the opportunity
-  to work with clients large and small creating and improving upon digital
-  products. In the process I've designed UIs, facilitated product design sprints,
+- **thoughtbot — Designer & Developer** • 2018–2014 — At thoughtbot I had the opportunity
+  to work with clients large and small to create and improve upon digital
+  products. In the process I designed UIs, facilitated product design sprints,
   implemented my own designs using various front-end tools, conducted sprint
-  planning, and worked directly with clients  to achieve business goals.
+  planning, and worked directly with clients to achieve business goals.
 
 - **Argus — Graphic Designer** • 2014–2011 — Designed branding systems ranging
   from events to campaigns for a variety of clients. Created production files for
